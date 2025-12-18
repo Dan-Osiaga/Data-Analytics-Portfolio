@@ -5,7 +5,8 @@ Daniel Osiaga is a passionate and results-driven researcher with a strong backgr
 ## Skills
 Data Visualization - Power Bi, Python and Excel
 ![image](Screenshot 2025-12-12 002531.png)
-
+![image](Screenshot 2025-12-04 142907.png)
+I build dashboards and reporting visuals that helps businesses make quick and productive decision.[Click Here](Screenshot 2025-12-04 142907.png)
 Researcher
 Fianance and Data Alystics Training
 
